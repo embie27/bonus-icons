@@ -2,8 +2,8 @@ import fontforge
 import os
 
 font = fontforge.font()
-font.fullname = "bonus-icons"
-font.familyname = "bonus-icons"
+font.fullname = "Bonus Icons"
+font.familyname = "Bonus Icons"
 used_unicodes = []
 for file in os.listdir("./svgs"):
     if not file.endswith("svg"):
