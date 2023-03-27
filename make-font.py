@@ -1,11 +1,9 @@
 import fontforge
 import os
 
-print("hello")
 font = fontforge.font()
 used_unicodes = []
 for file in os.listdir("./svgs"):
-    print(file)
     if not file.endswith("svg"):
         raise Exception(f"error: {file} is not an svg file")
 
@@ -13,8 +11,6 @@ for file in os.listdir("./svgs"):
     name = ""
     try:
         unicode, name = file[:-4].split("%%")
-        print(unicode)
-        print(name)
     except ValueError:
         raise Exception(f"error: {file} does not specify unicode codepoint and name seperated by '%%'")
     try:
