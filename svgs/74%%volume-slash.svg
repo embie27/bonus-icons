@@ -1,19 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 469.333 469.333" style="enable-background:new 0 0 469.333 469.333;" xml:space="preserve">
-<g
-   id="g6">
-	<g
-   id="g4">
-		<path
-   d="M292.228,0.873c-3.938-1.688-8.458-0.885-11.563,2.042l-109.854,103.75H95.999c-5.896,0-10.667,4.771-10.667,10.667    v149.333c0,5.896,4.771,10.667,10.667,10.667h74.813l109.854,103.75c2.021,1.917,4.667,2.917,7.333,2.917    c1.417,0,2.854-0.281,4.229-0.875c3.896-1.677,6.438-5.531,6.438-9.792V10.664C298.665,6.404,296.124,2.55,292.228,0.873z     M277.332,348.581l-94.938-89.667c-1.979-1.875-4.604-2.917-7.333-2.917h-68.396v-128h68.396c2.729,0,5.354-1.042,7.333-2.917    l94.938-89.667V348.581z"
-   id="path2" />
-	</g>
-</g>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 469.333 469.333"
+   style="enable-background:new 0 0 469.333 469.333;"
+   xml:space="preserve"
+   sodipodi:docname="74%%volume-slash.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs43" /><sodipodi:namedview
+   id="namedview41"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.8686093"
+   inkscape:cx="211.38716"
+   inkscape:cy="248.31302"
+   inkscape:window-width="1920"
+   inkscape:window-height="1047"
+   inkscape:window-x="0"
+   inkscape:window-y="33"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
 <g
    id="g8">
+	<g
+   id="g6">
+		<g
+   id="g4">
+			<path
+   d="M206.885,43.544c-3.875-1.698-8.448-0.896-11.542,2.042L85.49,149.336H10.667C4.771,149.336,0,154.107,0,160.002v149.333     c0,5.896,4.771,10.667,10.667,10.667H85.49l109.854,103.75c2.021,1.917,4.656,2.917,7.323,2.917c1.427,0,2.865-0.281,4.219-0.875     c3.917-1.677,6.448-5.531,6.448-9.792V53.336C213.333,49.075,210.802,45.221,206.885,43.544z M192,391.252l-94.948-89.667     c-1.979-1.875-4.604-2.917-7.323-2.917H21.333v-128h68.396c2.719,0,5.344-1.042,7.323-2.917L192,78.086V391.252z"
+   id="path2" />
+		</g>
+	</g>
 </g>
 <g
    id="g10">
@@ -57,20 +88,15 @@
 <g
    id="g36">
 </g>
+<g
+   id="g38">
+</g>
 <rect
-   style="fill:#000000;stroke-width:1.02202"
-   id="rect931"
-   width="22.438822"
-   height="442.95297"
-   x="70.657509"
-   y="66.245949"
-   ry="8.0827579"
-   transform="rotate(-34.396591)" /><rect
-   style="fill:#ffffff;stroke-width:0.904963;fill-opacity:1"
-   id="rect931-3"
-   width="17.593124"
-   height="442.95297"
-   x="53.934391"
-   y="64.845108"
-   ry="0"
-   transform="matrix(0.82624613,-0.56330927,0.56329241,0.82625763,0,0)" /></svg>
+   style="fill:#000000;fill-opacity:1;stroke-width:0.911124"
+   id="rect270"
+   width="18.996454"
+   height="471.50259"
+   x="-13.171041"
+   y="46.979481"
+   ry="6.566926"
+   transform="rotate(-35.150111)" /></svg>
